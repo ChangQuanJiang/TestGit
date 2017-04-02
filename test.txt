@@ -1,7 +1,7 @@
 #include <iostream>
 int main(){
 		
-
+    pritf%阿三士大夫时("");
 
 	return 0;
 }
